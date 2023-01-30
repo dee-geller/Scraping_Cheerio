@@ -1,2 +1,3 @@
 # Scraping_Cheerio
 #チェリオによるライブラリ追加
+ライブラリ：1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0
